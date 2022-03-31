@@ -130,7 +130,7 @@
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./LW3punks/1.png" />
+          <img className={styles.image} src="./LW3Punks/1.png" />
         </div>
       </div>
 
